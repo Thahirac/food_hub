@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924706250180",
+    "project_id": "foodapp-3e057",
+    "storage_bucket": "foodapp-3e057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924706250180:android:47bf97ecadbd69bcc1d891",
+        "android_client_info": {
+          "package_name": "com.irings.food_hubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924706250180-5o28sjlkdo27h43gkhec91fh7cnqa7rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDLqzHT2hKA5jmlWK9AajzhS0OTJz5lrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924706250180-5o28sjlkdo27h43gkhec91fh7cnqa7rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
